@@ -157,8 +157,8 @@ For a more streamlined approach, you can use Docker Compose to run all the servi
 ## Technologies Used
 
 - **Java**: 24
-- **Spring Boot**: 3.1.5
-- **Spring Cloud**: 2022.0.4
+- **Spring Boot**: 4.1.0
+- **Spring Cloud**: 2025.1.2
 - **Maven**: For dependency management and building the project.
 - **PostgreSQL**: As the database for the services that require persistence.
 - **Eureka**: For service discovery.
